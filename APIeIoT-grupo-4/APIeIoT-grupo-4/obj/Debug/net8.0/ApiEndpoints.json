@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "APIeloT_grupo_4.Controllers.SensorController",
+    "Method": "ReceberDados",
+    "RelativePath": "api/Sensor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dados",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIeloT_grupo_4.Controllers.SensorController",
+    "Method": "ListarDados",
+    "RelativePath": "api/Sensor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIeloT_grupo_4.Controllers.SensorController",
+    "Method": "LimparHistorico",
+    "RelativePath": "api/Sensor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
